@@ -75,6 +75,8 @@ The conversational loop is driven via a **simple CLI**, keeping I/O separate fro
 ---
 
 ## How to Run
+Activate your virtual environment and run the below commands:
 
 ```bash
+pip install -r requirements.txt
 python main.py
